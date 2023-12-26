@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682842137386",
+    "project_id": "kaizenvpn-com",
+    "storage_bucket": "kaizenvpn-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682842137386:android:834ecc53802315165f7453",
+        "android_client_info": {
+          "package_name": "com.kaizenvpn.vpn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpK4ColXCwXt6gzvRhudufO8sDR1roy9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
