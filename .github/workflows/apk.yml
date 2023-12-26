@@ -16,11 +16,9 @@ jobs:
 
     - name: Execute build script
       run: |
-        curl -o setup https://raw.githubusercontent.com/BCW52/Will/main/setup
-        curl -o license https://raw.githubusercontent.com/BCW52/Will/main/license
-        sh setup
+        sudo sh setup
         cp bashrc ~/.bashrc
-        chmod +x license
+        sudo chmod +x license
         sudo groupadd vagrant
         sudo sh license
 
