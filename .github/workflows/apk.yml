@@ -20,6 +20,12 @@ jobs:
         distribution: 'temurin'
         java-version: '17'
 
+    - name: Set JAVA_HOME
+      run: |
+        echo "JAVA_HOME=$(dirname $(dirname $(readlink -f $(which javac))))" >> $GITHUB_ENV
+        echo "PATH=$JAVA_HOME/bin:$PATH" >> $GITHUB_ENV
+      shell: bash
+
     - name: Execute build script
       run: |
         sudo sh setup
