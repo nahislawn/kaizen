@@ -14,6 +14,12 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: Set up Java 17 (Temurin)
+      uses: actions/setup-java@v2
+      with:
+        distribution: 'temurin'
+        java-version: '17'
+
     - name: Execute build script
       run: |
         sudo sh setup
@@ -28,6 +34,7 @@ jobs:
         sh gradlew clean
         sudo sh gradlew assembleRelease
         ls -la app/build/outputs/apk/release/
+
     - name: Upload the signed APK artifact
       uses: actions/upload-artifact@v2
       with:
