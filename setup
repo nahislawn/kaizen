@@ -36,6 +36,10 @@ FLUTTER_URL="https://storage.googleapis.com/flutter_infra_release/releases/stabl
 execute_command "curl -o flutter.tar.xz $FLUTTER_URL" "log.txt"
 execute_command "tar xf flutter.tar.xz" "log.txt"
 export PATH="$PATH:`pwd`/flutter/bin"
+wget https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.deb
+sudo apt install ./jdk-17_linux-x64_bin.deb
+sudo update-alternatives --install "/usr/bin/java" "java" "/usr/lib/jvm/jdk-17/bin/java" 
+sudo update-alternatives --set java /usr/lib/jvm/jdk-17/bin/java
 
 # Add Flutter to PATH permanently
 echo 'export PATH="$PATH:`pwd`/flutter/bin"' >> ~/.bashrc
@@ -60,3 +64,6 @@ print_color $GREEN "Setup completed successfully!"
 # source .bashrc
 # git clone https://github.com/bcw52/will
 
+sudo update-alternatives --list java
+sudo update-alternatives --list java
+sudo update-alternatives --list java
