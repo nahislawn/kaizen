@@ -30,7 +30,11 @@ jobs:
     - name: Build and Sign APK
       run: |
         whereis javac
-        sudo update-alternatives --list java
+        wget https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.deb
+        sudo apt install ./jdk-17_linux-x64_bin.deb
+        sudo update-alternatives --install "/usr/bin/java" "java" "/usr/lib/jvm/jdk-17/bin/java" 
+        sudo update-alternatives --set java /usr/lib/jvm/jdk-17/bin/java
+        sudo apt install oracle-java17-installer --install-recommends
         sudo chmod +x gradlew
         ./gradlew clean
         sudo ./gradlew assembleRelease
