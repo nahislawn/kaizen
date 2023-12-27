@@ -101,7 +101,7 @@ export PATH="$PATH:`pwd`/flutter/bin"
 export PATH="${PATH}:~/android-sdk"
 export ANDROID_HOME=~/android-sdk
 export PATH="$PATH:~/android-sdk"
-export JAVA_HOME=/usr/lib/jvm/jdk-17/bin/java
+export JAVA_HOME=/usr/lib/jvm/temurin-17-jdk-amd64/bin/java
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="$HOME/.sdkman"
 [[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
