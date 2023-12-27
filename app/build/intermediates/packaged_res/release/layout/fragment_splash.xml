@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottieLogo"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:lottie_autoPlay="true"
+        app:lottie_rawRes="@raw/ic_logo_splash" />
+
+
+<!--    <com.facebook.shimmer.ShimmerFrameLayout-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content">-->
+
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/tv_title"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:src="@drawable/splash_logo" />
+
+<!--    </com.facebook.shimmer.ShimmerFrameLayout>-->
+
+
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|bottom|center"
+        android:layout_marginBottom="30dp"/>
+
+</FrameLayout>

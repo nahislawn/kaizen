@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "de.blinkt.openvpn.ovpn-merged_res-13:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "de.blinkt.openvpn.ovpn-material-1.3.0-0:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.ovpn-merged_res-13:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "de.blinkt.openvpn.ovpn-material-1.3.0-0:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.ovpn-merged_res-13:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "de.blinkt.openvpn.ovpn-material-1.3.0-0:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    }
+]

@@ -1,5 +1,5 @@
-com.limerse.iap.R
 com.limerse.iap.R$string
+com.limerse.iap.R
 com.limerse.iap.R$string: int app_name
 com.limerse.iap.R: R()
 com.limerse.iap.R$string: R$string()

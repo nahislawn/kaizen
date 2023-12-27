@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.limerse.iap-mergeReleaseResources-22:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/nahid/.gradle/caches/transforms-3/079831ff23b9a1aff3720c359f7afe07/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.limerse.iap-merged_res-24:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/nahid/.gradle/caches/transforms-3/079831ff23b9a1aff3720c359f7afe07/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

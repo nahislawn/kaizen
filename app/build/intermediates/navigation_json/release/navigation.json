@@ -1,0 +1,21 @@
+[
+  {
+    "name": "nav_main_graph",
+    "navigationXmlIds": [
+      "nav_auth_graph"
+    ],
+    "deepLinks": []
+  },
+  {
+    "name": "nav_auth_graph",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "nav_graph",
+    "navigationXmlIds": [
+      "nav_main_graph"
+    ],
+    "deepLinks": []
+  }
+]

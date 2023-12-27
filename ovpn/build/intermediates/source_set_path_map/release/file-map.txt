@@ -1,0 +1,17 @@
+de.blinkt.openvpn.ovpn-material-1.3.0-0 /home/nahid/.gradle/caches/transforms-3/1c6f8b624acdbb8163534270bbf7a51a/transformed/material-1.3.0/res
+de.blinkt.openvpn.ovpn-constraintlayout-2.0.1-1 /home/nahid/.gradle/caches/transforms-3/1f3593582ac9e98ef24ccc16b83939f0/transformed/constraintlayout-2.0.1/res
+de.blinkt.openvpn.ovpn-coordinatorlayout-1.1.0-2 /home/nahid/.gradle/caches/transforms-3/28a2117b5be7dd94c3fb6b10511e1809/transformed/coordinatorlayout-1.1.0/res
+de.blinkt.openvpn.ovpn-transition-1.2.0-3 /home/nahid/.gradle/caches/transforms-3/4c811cd2bb3e11801f23633aa9502358/transformed/transition-1.2.0/res
+de.blinkt.openvpn.ovpn-cardview-1.0.0-4 /home/nahid/.gradle/caches/transforms-3/8cd67bd7d42ac4e3a8ae18e6ee830bdf/transformed/cardview-1.0.0/res
+de.blinkt.openvpn.ovpn-appcompat-1.2.0-5 /home/nahid/.gradle/caches/transforms-3/99fba702c360ad3dcd9b46d7b3bff69c/transformed/appcompat-1.2.0/res
+de.blinkt.openvpn.ovpn-recyclerview-1.1.0-6 /home/nahid/.gradle/caches/transforms-3/aac69deb13fdb18419cff7c3d1826dec/transformed/recyclerview-1.1.0/res
+de.blinkt.openvpn.ovpn-core-1.3.1-7 /home/nahid/.gradle/caches/transforms-3/af94b85931f47ffca70b430c61718146/transformed/core-1.3.1/res
+de.blinkt.openvpn.ovpn-jetified-appcompat-resources-1.2.0-8 /home/nahid/.gradle/caches/transforms-3/c638a750f279cea47ddf3bc0e8b8f49e/transformed/jetified-appcompat-resources-1.2.0/res
+de.blinkt.openvpn.ovpn-jetified-viewpager2-1.0.0-9 /home/nahid/.gradle/caches/transforms-3/f9c92ee8e072e686e1cd22b06bd782cd/transformed/jetified-viewpager2-1.0.0/res
+de.blinkt.openvpn.ovpn-pngs-10 /home/nahid/Pictures/android/ovpn/build/generated/res/pngs/release
+de.blinkt.openvpn.ovpn-resValues-11 /home/nahid/Pictures/android/ovpn/build/generated/res/resValues/release
+de.blinkt.openvpn.ovpn-mergeReleaseResources-12 /home/nahid/Pictures/android/ovpn/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+de.blinkt.openvpn.ovpn-mergeReleaseResources-13 /home/nahid/Pictures/android/ovpn/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+de.blinkt.openvpn.ovpn-merged_res-14 /home/nahid/Pictures/android/ovpn/build/intermediates/merged_res/release
+de.blinkt.openvpn.ovpn-main-15 /home/nahid/Pictures/android/ovpn/src/main/res
+de.blinkt.openvpn.ovpn-release-16 /home/nahid/Pictures/android/ovpn/src/release/res

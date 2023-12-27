@@ -1,15 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android App\client bakgladewsh 2\android\ovpn\src\main\AndroidManifest.xml:1:1-41
-INJECTED from D:\Android App\client bakgladewsh 2\android\ovpn\src\main\AndroidManifest.xml:1:1-41
+ADDED from /home/nahid/Pictures/android/ovpn/src/main/AndroidManifest.xml:1:1-13
+INJECTED from /home/nahid/Pictures/android/ovpn/src/main/AndroidManifest.xml:1:1-13
 	package
-		ADDED from D:\Android App\client bakgladewsh 2\android\ovpn\src\main\AndroidManifest.xml:1:11-38
-		INJECTED from D:\Android App\client bakgladewsh 2\android\ovpn\src\main\AndroidManifest.xml
+		INJECTED from /home/nahid/Pictures/android/ovpn/src/main/AndroidManifest.xml
 uses-sdk
-INJECTED from D:\Android App\client bakgladewsh 2\android\ovpn\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Android App\client bakgladewsh 2\android\ovpn\src\main\AndroidManifest.xml
-INJECTED from D:\Android App\client bakgladewsh 2\android\ovpn\src\main\AndroidManifest.xml
+INJECTED from /home/nahid/Pictures/android/ovpn/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nahid/Pictures/android/ovpn/src/main/AndroidManifest.xml
+INJECTED from /home/nahid/Pictures/android/ovpn/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Android App\client bakgladewsh 2\android\ovpn\src\main\AndroidManifest.xml
+		INJECTED from /home/nahid/Pictures/android/ovpn/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Android App\client bakgladewsh 2\android\ovpn\src\main\AndroidManifest.xml
+		INJECTED from /home/nahid/Pictures/android/ovpn/src/main/AndroidManifest.xml

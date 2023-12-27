@@ -11,36 +11,18 @@ plugins {
 
 android {
     namespace = "com.kaizenvpn.vpn"
-    compileSdk = Config.Version.compileSdk
-
+    compileSdk = 33
     defaultConfig {
-        applicationId = Config.applicationId
-        minSdk = Config.Version.minSdk
-        targetSdk = Config.Version.targetSdk
-        versionCode = _autoGenVersionCode
-        versionName = Config.versionName
+        applicationId = "com.kaizenvpn.vpn"
+        minSdk = 26
 
-        manifestPlaceholders["admobId"] = Config.admobId
-
-        buildConfigField("String", "ADMOB_ID", "\"${Config.admobId}\"")
+        targetSdk = 33
+        versionCode = 1
+        versionName = "1.0"
     }
-
-    signingConfigs {
-        create("release") {
-            keyAlias = "key0"
-            keyPassword = "12345678"
-            storeFile = file("key/kaiven_vpn.jks")
-            storePassword = "12345678"
-        }
-    }
-
     buildTypes {
-        debug {
-            signingConfig = signingConfigs.getByName("release")
-        }
         release {
             isMinifyEnabled = false
-            signingConfig = signingConfigs.getByName("release")
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
     }

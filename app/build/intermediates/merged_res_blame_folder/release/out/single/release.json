@@ -1,0 +1,1382 @@
+[
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_fragment_forgot_password.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_forgot_password.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mx.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mx.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_is.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_is.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_northern_cyprus.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_northern_cyprus.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ads.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ads.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_bh.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/bh.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_gi.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_gi.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sy.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sy.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cd.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_cd.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_tv.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_tv.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_kn.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_kn.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/mipmap-hdpi_logo.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/anim_exit.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/anim/exit.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_qa.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_qa.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ng.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ng.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_bg_input_view_unfocused.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/bg_input_view_unfocused.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_download.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_download.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_th.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_th.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_fragment_splash.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_it.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_it.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_my.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_my.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_us_hi.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_us_hi.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_pr.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_pr.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_jp.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_jp.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_nu.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_nu.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_bt.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_bt.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_star.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/star.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_fk.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_fk.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_bi.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/bi.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_tw.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_tw.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_id.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_id.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_us.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_us.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_item_package.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/item_package.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sz.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sz.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_connect.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/connect.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_si.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_si.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_hu.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_hu.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_km.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_km.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_az.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/az.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ai.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ai.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_gy.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_gy.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cc.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_cc.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_kp.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_kp.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_gh.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_gh.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_vip.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_vip.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_zw.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_zw.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_bg_input_view_focused.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/bg_input_view_focused.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_background_round_8.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/background_round_8.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_user_shield.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_user_shield.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_jo.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_jo.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ps.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ps.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_dialog_reset_password_email.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/dialog_reset_password_email.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_bs.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_bs.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_pe.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_pe.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_tt.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_tt.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ht.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ht.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/mipmap-xxxhdpi_logo.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/mipmap-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_yiddish.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_yiddish.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ir.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ir.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_upload.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_upload.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sv.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sv.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_connected.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/connected.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_gl.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_gl.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_bg.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/bg.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_fragment_home.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mg.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mg.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_tk.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_tk.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_dialog_progress.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/dialog_progress.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ag.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ag.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ax.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ax.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_vc.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_vc.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_gw.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_gw.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_slide_1.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/slide_1.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sk.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sk.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/raw_ic_logo_splash.json.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/raw/ic_logo_splash.json"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_activity_main.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_item_menu.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/item_menu.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_background_item_package_selector.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/background_item_package_selector.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_vg.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_vg.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_vn.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_vn.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_gm.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_gm.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ch.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ch.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ky.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ky.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_nr.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_nr.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_gt.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_gt.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ae.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ae.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sn.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sn.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_pf.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_pf.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mu.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mu.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_la.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_la.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/raw_ic_logo_connect.json.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/raw/ic_logo_connect.json"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_de.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_de.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mm.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mm.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_af.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_af.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_bd.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/bd.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_item_slide_5.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/item_slide_5.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_er.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_er.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cg.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_cg.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_lv.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_lv.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_nl.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_nl.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_fi.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_fi.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_background_item_package_normal.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/background_item_package_normal.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cw.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_cw.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_gn.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_gn.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ne.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ne.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_gradient_slide_1.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/gradient_slide_1.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_st.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_st.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_background_dialog.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/background_dialog.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_kz.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_kz.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_background_item_menu_normal.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/background_item_menu_normal.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_menu.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_tl.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_tl.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_es.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_es.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_rw.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_rw.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_va.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_va.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_hk.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_hk.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_bg_input_view_error.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/bg_input_view_error.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_pg.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_pg.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_dz.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_dz.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_pt_20.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_pt_20.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_zm.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_zm.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_fragment_location.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_location.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_fo.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_fo.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_bj.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_bj.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_flag_usa.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_flag_usa.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cx.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_cx.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mz.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mz.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mh.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mh.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_item_slide_4.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/item_slide_4.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_pa.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_pa.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cf.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_cf.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_open_eye.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_open_eye.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_aw.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/aw.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_pl.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_pl.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_in.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_in.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/navigation_nav_auth_graph.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/navigation/nav_auth_graph.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/raw_ic_logo_connected.json.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/raw/ic_logo_connected.json"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_nf.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_nf.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_do.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_do.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_pw.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_pw.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_bz.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_bz.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_so.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_so.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/anim_enter.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/anim/enter.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_im.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_im.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_tm.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_tm.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_gg.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_gg.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/navigation_nav_main_graph.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/navigation/nav_main_graph.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_arrow_right_24.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_arrow_right_24.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sd.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sd.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_tg.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_tg.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_je.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_je.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_tr.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_tr.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/font_chaletcomprime.ttf.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/font/chaletcomprime.ttf"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_kh.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_kh.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_lk.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_lk.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_gradient_slide_6.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/gradient_slide_6.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mn.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mn.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/mipmap-xxhdpi_logo.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mt.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mt.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/xml_data_extraction_rules.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/font_worksans_regular.ttf.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/font/worksans_regular.ttf"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cr.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_cr.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ca.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ca.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_fj.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_fj.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_bo.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_bo.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ye.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ye.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_eg.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_eg.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mq.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mq.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_slide_5.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/slide_5.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_fragment_setting.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_to.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_to.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_gradient_slide_5.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/gradient_slide_5.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_divider_account.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/divider_account.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cz.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_cz.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_fragment_main.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sc.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sc.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mc.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mc.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_check.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_gq.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_gq.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cl.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_cl.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/navigation_nav_graph.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_background_button_selector.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/background_button_selector.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ba.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ba.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_gb.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_gb.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_south_ossetia.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_south_ossetia.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ar.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ar.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_kg.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_kg.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_rs.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_rs.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_py.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_py.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_dj.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_dj.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_lt.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_lt.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mp.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mp.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mr.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mr.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_activity_intro.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_divider_horizontal_16.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/divider_horizontal_16.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/raw_groom.json.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/raw/groom.json"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sb.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sb.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_na.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_na.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_fragment_account.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/raw_ic_loading.json.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/raw/ic_loading.json"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_bm.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_bm.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_pk.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_pk.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_bb.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/bb.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_fr.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_fr.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_background_setting.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/background_setting.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_navigate_next.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_navigate_next.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_item_slide_1.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/item_slide_1.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ls.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ls.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_hn.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_hn.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cm.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_cm.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_no.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_no.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_gr.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_gr.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_as.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/as.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_kw.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_kw.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ga.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ga.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_uk.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_uk.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ee.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ee.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_slide_7.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/slide_7.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_connect_button.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/connect_button.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_lu.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_lu.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_divider_vertical_16.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/divider_vertical_16.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_dk.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_dk.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_united_nations.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_united_nations.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ss.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ss.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ms.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ms.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable-nodpi_image_background_01.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable-nodpi/image_background_01.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mo.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mo.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_uy.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_uy.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ki.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ki.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_md.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_md.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_location.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_np.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_np.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_tc.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_tc.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_lr.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_lr.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_buton_connected.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/buton_connected.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ao.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ao.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_background_round_top_8.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/background_round_top_8.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_vi.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_vi.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_eh.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_eh.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_uz.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_uz.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ph.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ph.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_home.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ma.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ma.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_gradient_slide_4.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/gradient_slide_4.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_baseline_edit_document_24.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/baseline_edit_document_24.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_se.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_se.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/mipmap-xhdpi_logo.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/mipmap-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cy.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_cy.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cn.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_cn.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_fragment_auth.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_auth.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_background_item_menu_selector.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/background_item_menu_selector.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_om.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_om.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_vip_2.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_vip_2.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/xml_backup_rules.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_et.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_et.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_slide_4.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/slide_4.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_background_button_enable.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/background_button_enable.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_io.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_io.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ck.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ck.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_by.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_by.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sindh.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sindh.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_tn.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_tn.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_za.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_za.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_il.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_il.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_kr.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_kr.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_co.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_co.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_au.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/au.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/mipmap-mdpi_logo.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/mipmap-mdpi/logo.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_tz.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_tz.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/font_worksans_bold.ttf.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/font/worksans_bold.ttf"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_bg_input_view.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/bg_input_view.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cv.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_cv.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_hr.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_hr.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_jm.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_jm.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_dm.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_dm.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ec.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ec.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_vu.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_vu.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_view_input.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/view_input.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ws.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ws.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_slide_2.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/slide_2.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sg.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sg.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_gradient_slide_2.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/gradient_slide_2.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_nz.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_nz.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_am.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/am.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_pt.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_pt.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_gu.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_gu.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sm.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sm.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_item_location.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/item_location.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ge.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ge.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ua.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ua.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ci.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ci.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_eye_state.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_eye_state.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_li.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_li.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ad.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ad.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mv.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mv.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_close.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_me.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_me.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_lb.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_lb.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_tibet.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_tibet.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_iq.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_iq.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_pn.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_pn.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_be.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/be.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_gd.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_gd.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_bl.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_bl.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_baseline_email_24.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_arrow_down.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_arrow_down.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sl.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sl.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_bf.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/bf.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_bw.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_bw.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_tj.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_tj.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_xk.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_xk.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ve.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ve.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_slide_3.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/slide_3.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ru.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ru.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ke.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ke.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_transnistria.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_transnistria.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mk.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mk.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ly.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ly.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_background_item_menu_selected.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/background_item_menu_selected.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ni.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ni.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_lc.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_lc.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_mw.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_mw.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_background_button_disable.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/background_button_disable.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_at.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/at.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_fragment_private_policy.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_private_policy.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_background_item_package_activated.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/background_item_package_activated.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_br.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_br.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sx.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sx.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_somaliland.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_somaliland.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cu.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_cu.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_share.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/share.png"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ug.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ug.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_fm.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_fm.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sr.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sr.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_close_eye.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_close_eye.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_td.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_td.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ro.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ro.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_sa.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_sa.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_ie.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/flag/drawable/ic_ie.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_fragment_upgrade.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_upgrade.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/layout_dialog_rate_app.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/dialog_rate_app.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_ic_cancel.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_background_progress_dialog.xml.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/background_progress_dialog.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-merged_res-73:/drawable_splash_logo.png.flat",
+        "source": "com.kaizenvpn.vpn.app-main-74:/drawable/splash_logo.png"
+    }
+]

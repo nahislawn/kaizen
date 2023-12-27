@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/fragment_location.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_location.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/item_menu.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/item_menu.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/item_slide_4.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/item_slide_4.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/item_location.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/item_location.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/activity_main.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/fragment_private_policy.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_private_policy.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/fragment_upgrade.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_upgrade.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/fragment_auth.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_auth.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/fragment_home.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/item_slide_5.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/item_slide_5.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/fragment_setting.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/fragment_main.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/fragment_splash.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/activity_intro.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/dialog_rate_app.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/dialog_rate_app.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/dialog_progress.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/dialog_progress.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/fragment_account.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/item_slide_1.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/item_slide_1.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/fragment_forgot_password.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/fragment_forgot_password.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/view_input.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/view_input.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/item_package.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/item_package.xml"
+    },
+    {
+        "merged": "com.kaizenvpn.vpn.app-mergeReleaseResources-72:/layout/dialog_reset_password_email.xml",
+        "source": "com.kaizenvpn.vpn.app-main-74:/layout/dialog_reset_password_email.xml"
+    }
+]

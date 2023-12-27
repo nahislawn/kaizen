@@ -1,2 +1,0 @@
-com.limerse.iap
-string app_name

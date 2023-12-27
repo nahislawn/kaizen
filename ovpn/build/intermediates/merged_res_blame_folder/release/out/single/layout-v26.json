@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "de.blinkt.openvpn.ovpn-merged_res-13:/layout-v26/mtrl_calendar_month.xml",
+        "source": "de.blinkt.openvpn.ovpn-material-1.3.0-0:/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.ovpn-merged_res-13:/layout-v26/abc_screen_toolbar.xml",
+        "source": "de.blinkt.openvpn.ovpn-appcompat-1.2.0-5:/layout-v26/abc_screen_toolbar.xml"
+    }
+]

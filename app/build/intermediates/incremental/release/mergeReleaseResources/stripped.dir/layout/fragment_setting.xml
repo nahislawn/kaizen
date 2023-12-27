@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary"
+    android:padding="20dp"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Social"
+        android:textStyle="bold"
+        android:textColor="#e4ecee"
+        android:textSize="20sp"/>
+
+    <LinearLayout
+        android:id="@+id/rate_us"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/background_setting"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_gravity="center_vertical"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginStart="20dp"
+            android:src="@drawable/star"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="Rate Us on Google Play"
+            android:textSize="17sp"
+            android:textColor="#434949"
+            android:layout_marginStart="10dp"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/share_app"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/background_setting"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_gravity="center_vertical"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginStart="20dp"
+            android:src="@drawable/share"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:text="Share App"
+            android:textColor="#434949"
+            android:textSize="17sp" />
+
+
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Other"
+        android:textStyle="bold"
+        android:textColor="#e4ecee"
+        android:textSize="20sp"/>
+
+    <LinearLayout
+        android:id="@+id/privacy_policy"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/background_setting"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_gravity="center_vertical"
+            android:layout_width="30dp"
+            android:layout_height="25dp"
+            android:layout_marginStart="20dp"
+            android:src="@drawable/baseline_edit_document_24"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="Privacy policy"
+            android:textSize="17sp"
+            android:textColor="#434949"
+            android:layout_marginStart="10dp"/>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/contact_us"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/background_setting"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_gravity="center_vertical"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginStart="20dp"
+            android:src="@drawable/baseline_email_24"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="Contact-Us"
+            android:textSize="17sp"
+            android:textColor="#434949"
+            android:layout_marginStart="10dp"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

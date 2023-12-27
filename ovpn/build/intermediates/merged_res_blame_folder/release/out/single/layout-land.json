@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "de.blinkt.openvpn.ovpn-merged_res-13:/layout-land/material_clock_period_toggle_land.xml",
+        "source": "de.blinkt.openvpn.ovpn-material-1.3.0-0:/layout-land/material_clock_period_toggle_land.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.ovpn-merged_res-13:/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "de.blinkt.openvpn.ovpn-material-1.3.0-0:/layout-land/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "de.blinkt.openvpn.ovpn-merged_res-13:/layout-land/material_timepicker.xml",
+        "source": "de.blinkt.openvpn.ovpn-material-1.3.0-0:/layout-land/material_timepicker.xml"
+    }
+]

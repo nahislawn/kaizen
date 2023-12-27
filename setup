@@ -52,10 +52,6 @@ execute_command "sudo apt-get install -y unzip zip" "log.txt"
 cd ~
 execute_command "curl -o android-sdk.zip https://dl.google.com/android/repository/sdk-tools-linux-3859397.zip" "log.txt"
 execute_command "unzip android-sdk.zip -d android-sdk" "log.txt"
-# echo 'export PATH=${PATH}:~/android-sdk/tools/bin:~/android-sdk/sdk/platform-tools:~/android-sdk/sdk/build-tools/' >> ~/.bashrc
-# echo "export PATH=${PATH}:~/android-sdk/sdk/platform-tools" >> ~/.bashrc
-# echo "export ANDROID_HOME=~/android-sdk/sdk/" >> ~/.bashrc
-# echo "export PATH=$PATH:~/android-sdk/tools" >> ~/.bashrc
 
 yes | sdkmanager "platforms;android-30"
 yes | sdkmanager "build-tools;30.0.3"

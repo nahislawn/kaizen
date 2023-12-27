@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "de.blinkt.openvpn"
-    compileSdk = Config.Version.compileSdk
+    compileSdk = 33
 
     buildTypes {
         release {

@@ -17,7 +17,7 @@ jobs:
     - name: Set up Java 11
       uses: actions/setup-java@v2
       with:
-        java-version: '11'
+        java-version: '17'
         distribution: 'temurin'
     - name: Execute build script
       run: |
@@ -29,6 +29,8 @@ jobs:
 
     - name: Build and Sign APK
       run: |
+        whereis javac
+        sudo update-alternatives --list java
         sudo chmod +x gradlew
         ./gradlew clean
         sudo ./gradlew assembleRelease
