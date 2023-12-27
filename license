@@ -87,7 +87,7 @@ cat <<EOF > $ANDROID_HOME/licenses/intel-android-extra-license
 d975f751698a77b662f1254ddbeed3901e976f5a
 EOF
 
-chmod a+X $$ANDROID_HOME
+chmod a+X $ANDROID_HOME
 chmod -R a+rX $ANDROID_HOME/
 chgrp vagrant $ANDROID_HOME
 chmod g+w $ANDROID_HOME
